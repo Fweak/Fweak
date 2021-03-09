@@ -1,7 +1,7 @@
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffweak&count_bg=%234651F3&title_bg=%23E34646&icon=&icon_color=%23E7E7E7&title=Viewers&edge_flat=false"/></a> -->
 
 <p align="left">
-  📝  Repos: 22<br>
+  📝  Repos: 21<br>
   😲  Followers: 209<br>
 </p>
 
