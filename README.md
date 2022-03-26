@@ -1,5 +1,3 @@
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffweak&count_bg=%234651F3&title_bg=%23E34646&icon=&icon_color=%23E7E7E7&title=Viewers&edge_flat=false"/></a> -->
-
 <h1 align="center"> Fweak </h1>
 <p align="center">
   📝  Repositories: 13<br>
@@ -15,3 +13,8 @@
   <img align="center" src="https://raw.githubusercontent.com/Fweak/Fweak/main/TelegramLogo.png" height="30px" width="30px"/>
   <a align="center" href="https://t.me/fweak69"> Telegram </a>
 </p>
+
+<p align="center">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=sbnh29wynv64zny3f7a6t7feo&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false"/>
+</p>
+
