@@ -1,7 +1,7 @@
 <h1 align="center"> Fweak </h1>
 <p align="center">
   📝  Repositories: 13<br>
-  😲  Followers: 280<br>
+  😲  Followers: 281<br>
 </p>
 
 <h2 align="center"> Socials </h3>
@@ -17,4 +17,3 @@
 <p align="center">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=sbnh29wynv64zny3f7a6t7feo&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false"/>
 </p>
-
