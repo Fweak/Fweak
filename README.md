@@ -1,6 +1,6 @@
 <h1 align="center"> Fweak </h1>
 <p align="center">
-  📝  Repositories: 1<br>
+  📝  Repositories: 2<br>
   😲  Followers: 268<br>
 </p>
 
